@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+import socket
 import dbus, gobject
 from dbus.mainloop.glib import DBusGMainLoop
 
